@@ -2,5 +2,5 @@
  https://simplotel-assignment.vercel.app/
 
 <h1>Output</h1>
-<img scr="/output1.png" alt ="output1">
-<img scr="" alt ="output2">
+<img scr="image/output1.png" alt ="output1">
+<img scr="image/output2.png" alt ="output2">
